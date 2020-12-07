@@ -1,0 +1,21 @@
+.hero1 {
+  height: 100%;
+  width: 100%;
+  display: flex;
+//   margin-top: -140px;
+  // background-size: cover;
+  overflow: hidden;
+  background-image: url(assets/hero.jpg);
+  background-image: linear-gradient(#00000080, rgba(200, 8, 8, 0.5)),
+    url(assets/hero.jpg);
+}
+
+.hero2 {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  overflow: hidden;
+  background-image: url(assets/recipe-hero.jpg);
+  background-image: linear-gradient(#00000080, rgba(200, 8, 8, 0.5)),
+    url(assets/recipe-hero.jpg);
+}
