@@ -1,0 +1,35 @@
+//footer styling
+footer {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  p {
+    margin: auto;
+    color: #393939;
+    padding: 25px;
+  }
+
+  .li{
+    margin-left: 80px;
+    display: flex;
+
+    a{
+      text-decoration: none;
+      color: #393939;
+    }
+  }
+
+  // .face{
+  //   height: 19px;
+  //   width: 19px;
+  //   background-color: #393939;
+  // }
+
+  // .insta{
+  //   height: 19px;
+  //   width: 19px;
+  //   background-color: #393939;
+  // }
+}

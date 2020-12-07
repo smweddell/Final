@@ -1,0 +1,28 @@
+.supreme{
+    width: 525px;
+    height: 260px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+    margin-top: -900px;
+    margin-bottom: 590px;
+    // justify-items: center;
+    // align-items: center;
+
+    .pizza{
+        width: 300px;
+        height: 260px;
+        position: absolute;
+        border-radius: 10%;
+    }
+
+    .white{
+        height: 260px;
+        width: 225px;
+        margin-left: 300px;
+        position: absolute;
+        border-radius: 10%;
+        background-color: #ffffff;
+    }
+}
